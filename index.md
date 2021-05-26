@@ -21,18 +21,21 @@ Please take a look at my projects below!
 ![heroku-original-wordmark](https://user-images.githubusercontent.com/72315462/119737090-bcd80e00-be4c-11eb-9b99-9dcc5811a722.png)
 
 ## Projects
--[Tradr](https://tradr-capstone.herokuapp.com/)
-  -Trading card organization and trade finding application.
+
+- [Tradr](https://tradr-capstone.herokuapp.com/)
+  - Trading card organization and trade finding application.
   
--[CraniumLand](https://craniumland.herokuapp.com/)
+- [CraniumLand](https://craniumland.herokuapp.com/)
   -Flashcard creation and hosting. Allows studing of cards.
   
--[Podemic](https://podemic.herokuapp.com/)
-  -Podcast rating and reviews. Organize watched podcasts by rating.
+- [Podemic](https://podemic.herokuapp.com/)
+  - Podcast rating and reviews. Organize watched podcasts by rating.
+  
 ## Contact
-Linkedin | ![Link](https://www.linkedin.com/in/caleb-beachler-943198128/)
 
-GitHub | ![Link](https://github.com/cpbeachler)
+Linkedin | [Link](https://www.linkedin.com/in/caleb-beachler-943198128/)
+
+GitHub | [Link](https://github.com/cpbeachler)
 
 
 <!-- ## Welcome to GitHub Pages
