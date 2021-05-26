@@ -26,7 +26,7 @@ Please take a look at my projects below!
   - Trading card organization and trade finding application.
   
 - [CraniumLand](https://craniumland.herokuapp.com/)
-  -Flashcard creation and hosting. Allows studing of cards.
+  - Flashcard creation and hosting. Allows studing of cards.
   
 - [Podemic](https://podemic.herokuapp.com/)
   - Podcast rating and reviews. Organize watched podcasts by rating.
