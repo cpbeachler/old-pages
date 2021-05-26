@@ -22,13 +22,16 @@ Please take a look at my projects below!
 
 ## Projects
 -[Tradr](https://tradr-capstone.herokuapp.com/)
-  -Trading card organization and trade finding application
+  -Trading card organization and trade finding application.
+  
 -[CraniumLand](https://craniumland.herokuapp.com/)
   -Flashcard creation and hosting. Allows studing of cards.
+  
 -[Podemic](https://podemic.herokuapp.com/)
   -Podcast rating and reviews. Organize watched podcasts by rating.
 ## Contact
 Linkedin | ![Link](https://www.linkedin.com/in/caleb-beachler-943198128/)
+
 GitHub | ![Link](https://github.com/cpbeachler)
 
 
