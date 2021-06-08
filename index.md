@@ -33,9 +33,7 @@ Please take a look at my projects below!
   
 ## Contact
 
-Linkedin | [Link](https://www.linkedin.com/in/caleb-beachler-943198128/)
-
-GitHub | [Link](https://github.com/cpbeachler)
+[Linkedin](https://www.linkedin.com/in/caleb-beachler-943198128/) | [GitHub](https://github.com/cpbeachler)
 
 
 <!-- ## Welcome to GitHub Pages
